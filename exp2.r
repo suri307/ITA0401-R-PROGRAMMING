@@ -1,4 +1,3 @@
-```r
 a=matrix(1:20,nrow=5,ncol=4,byrow=TRUE)
 rownames(a)=paste0("R",1:5)
 colnames(a)=paste0("C",1:4)
